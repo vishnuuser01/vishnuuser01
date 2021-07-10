@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishnuuser01
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on oprn AI
+- 💞️ I’m looking to collaborate on open AI
 - 📫 How to reach me koharbishnu32@gmail.com
 
 <!---
